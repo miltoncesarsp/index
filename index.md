@@ -1,7 +1,7 @@
 ## Repositório de Milton César
 Cursando Análise e Desenvolvimento de Sistemas na UNISANTA
 
-[Jogo das Luzes](https://miltoncesarsp.github.io/pratica/).
+[Jogo das Luzes](https://miltoncesarsp.github.io/pratica/Luzes/).
 
 
 ### Markdown
